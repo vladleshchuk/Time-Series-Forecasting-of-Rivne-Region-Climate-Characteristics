@@ -71,4 +71,3 @@ This project was completed as Course Work in Machine Learning.
 * **Type of Work:** Course Work in Machine Learning Methods (2025)
 * **Specialty:** 126 "Information Systems and Technologies" (Master's Program)
 * **Contact:** vladleshchuk69@gmail.com
-```
