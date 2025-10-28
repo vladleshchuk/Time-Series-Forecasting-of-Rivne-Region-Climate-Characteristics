@@ -34,14 +34,6 @@ The entire analysis and modeling workflow is contained within an interactive **J
 
 ---
 
-## 📈 Key Results & Visualization
-
-Below is an example visualization demonstrating the forecast of a key climate characteristic obtained using one of the implemented models:
-
-![Climate Characteristic Forecast for Rivne Region](assets/image_357459.png)
-
----
-
 ## 📁 Repository Structure
 
 ```
